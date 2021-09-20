@@ -10,6 +10,13 @@
   - [LinkindIn](https://www.linkedin.com/in/sn-fahd/)
   - [Twitter](https://twitter.com/Snfahd_)
 
+### Languages :
+  - HTML5, CSS3, Java, JavaScript, MySQL, Nodejs, Expressjs, Python
+### Tools : 
+  - Git and Github, VScode, Atom, Eclipse, repl.it, Codesandbox, Netlify ..
+
+
+
 <!-- - 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
