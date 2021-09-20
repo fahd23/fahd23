@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋, I'm Fahd
+#### An Aspiring Web Developer
+- 🌱 I’m currently learning MERN Full Stack
 
-<!--
-**fahd23/fahd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧾 My Portfolio: 
+  - You can check out my projects and blogs [here](https://fahdpf.netlify.app/) 
+  
+- 📫 How to reach me:
+  - [Email](mailto:fahdpno@email.com)
+  - [LinkindIn](https://www.linkedin.com/in/sn-fahd/)
+  - [Twitter](https://twitter.com/Snfahd_)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!-- - 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
