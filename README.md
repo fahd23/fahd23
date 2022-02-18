@@ -9,7 +9,7 @@
   
 - 📫 How to reach me:
   - <a href="mailto:fahdpno@email.com" target="_blank">Email</a>
-  - <a href="" target="_blank">LinkindIn</a>
+  - <a href="https://www.linkedin.com/in/sn-fahd/" target="_blank">LinkindIn</a>
   - <a href="https://twitter.com/Snfahd_" target="_blank">Twitter</a>
 
 ### Languages :
