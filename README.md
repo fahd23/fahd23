@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning MERN Full Stack
 
 - 🧾 My Portfolio: 
-  - You can check out my projects and blogs [here](https://fahdpf.netlify.app/) 
+  - You can check out my projects and blogs <a href="https://fahdpf.netlify.app/" target="_blank">here</a>
   
 - 📫 How to reach me:
-  - [Email](mailto:fahdpno@email.com)
-  - [LinkindIn](https://www.linkedin.com/in/sn-fahd/)
-  - [Twitter](https://twitter.com/Snfahd_)
+  - <a href="mailto:fahdpno@email.com" target="_blank">Email</a>
+  - <a href="" target="_blank">LinkindIn</a>
+  - <a href="https://twitter.com/Snfahd_" target="_blank">Twitter</a>
 
 ### Languages :
   - HTML5, CSS3, Java, JavaScript, MySQL, Nodejs, Expressjs, Python
