@@ -13,7 +13,7 @@
   - <a href="https://twitter.com/Snfahd_" target="_blank">Twitter</a>
 
 ### Languages :
-  - HTML5, CSS3, JavaScript, MySQL, Nodejs, Expressjs, Python, Java
+  - HTML5, CSS3, JavaScript, React, MySQL, Nodejs, Expressjs, Python, Java
 
 ### Tools : 
   - Git and Github, VScode, Atom, Eclipse, repl.it, Codesandbox, Netlify ..
