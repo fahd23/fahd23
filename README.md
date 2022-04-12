@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Fahd
 #### An Aspiring Web Developer
-- 🌱 I’m currently learning MERN Full Stack
+- 🌱 I’m currently learning Full Stack
 
 - 🧾 My Portfolio: 
   - You can check out my projects and blogs <a href="https://fahdpf.netlify.app/" target="_blank">here</a>
