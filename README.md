@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fahd23&label=Profile%20views&color=0e75b6&style=flat" alt="fahd23" /> </p>
 
 ## Hi there 👋, I'm Fahd
-#### An Aspiring Web Developer
+#### I'm Front-end Developer
 - 🌱 I’m currently learning Full Stack
 
 - 🧾 My Portfolio: 
