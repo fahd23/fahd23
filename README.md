@@ -16,7 +16,7 @@
   - HTML5, CSS3, JavaScript, React, Nodejs, MySQL, Expressjs, Python, Java
 
 ### Tools : 
-  - Git and Github, VScode, Atom, Eclipse, repl.it, Codesandbox, Netlify ..
+  - Git and Github, VScode, Atom, Eclipse, repl.it, Codesandbox, Netlify...
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahd23&" alt="fahd23" /></p>
 
