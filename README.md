@@ -1,8 +1,12 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=fahd23&label=Profile%20views&color=0e75b6&style=flat" alt="fahd23" /> </p>
+<div align="center">
 
-## Hi there 👋, I'm Fahd
-#### I'm Front-end Developer
-- 🌱 I’m currently learning Full Stack
+# Hi, I'm Fahd
+#### Front-end Developer
+  <a href="https://www.linkedin.com/in/sn-fahd/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://twitter.com/rutvikumak13"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <p> <img src="https://komarev.com/ghpvc/?username=fahd23&label=Profile%20views&color=0e75b6&style=flat" alt="fahd23" /> </p>
+</div>
+
 
 - 🧾 My Portfolio: 
   - You can check out my projects and blogs <a href="https://fahdpf.netlify.app/" target="_blank">here</a>
@@ -20,12 +24,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahd23&" alt="fahd23" /></p>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=fahd23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
-<!-- - 🔭 I’m currently working on ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<a href="https://github.com/fahd23/fahd23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahd23&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/fahd23/fahd23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahd23&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="fahd23's GitHub Stats" />
+</a>
+</div>
 
