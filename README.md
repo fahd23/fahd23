@@ -9,7 +9,7 @@
 
 
 - 🧾 My Portfolio: 
-  - You can check out my projects and blogs <a href="https://fahdpf.netlify.app/" target="_blank">here</a>
+  - <a href="https://fahd-portfolio.vercel.app/" target="_blank">Portfolio Website Made using Next.js</a>
   
 - 📫 How to reach me:
   - <a href="mailto:fahdpno@email.com" target="_blank">Email</a>
