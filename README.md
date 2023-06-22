@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about Frontend development
 - 🧾 My Portfolio: 
-  - <a href="https://fahd-portfolio.vercel.app/" target="_blank">Portfolio Website Made Using Next.js</a>
+  - <a href="https://fahd-portfolio.vercel.app/" target="_blank">Click Here</a>
   
 - 📫 How to reach me:
   - <a href="mailto:fahdpno@email.com" target="_blank">Email</a>
