@@ -6,7 +6,7 @@
   <p> <img src="https://komarev.com/ghpvc/?username=fahd23&label=Profile%20views&color=0e75b6&style=flat" alt="fahd23" /> </p>
 </div>
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and C#
 - 💬 Ask me about Frontend development
 - 🧾 My Portfolio: 
   - <a href="https://fahd-portfolio.vercel.app/" target="_blank">Click Here</a>
